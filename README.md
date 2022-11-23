@@ -18,7 +18,7 @@ This app shows lists of the most preferred hot coffee types and iced coffe types
 
 - Images of hot coffe types & iced coffe types
 - Short description for each coffee
-- Ingredients of each coffe
+- Ingredients of each coffee
 
 
  ## Screens
